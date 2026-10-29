@@ -1,0 +1,9 @@
+*.csv
+data_description.txt
+house-prices-advanced-regression-techniques.zip
+.env
+.venv/
+venv/
+.py[cod]
+*__pycache__/
+.ipynb_checkpoints/
